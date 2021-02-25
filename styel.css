@@ -1,0 +1,15 @@
+.Body_Background {
+color: aquamarine;
+background-position: center;
+background-size: cover;
+}
+h1 {
+color: red;
+font-size: 40px;
+}
+
+#Olympiclogo {
+border-width:  10%;
+background-color: white;
+border-right: ridge;
+}
